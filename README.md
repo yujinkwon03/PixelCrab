@@ -1,7 +1,7 @@
 # 🦀 Pixel Crab Shader Project
 This project explores animated pixel art using OpenGL (C++) and GLSL shaders. I created and animated two versions of a pixel crab:
 
--Vertex Crab (PixelCrab): Constructed by manually placing vertices for each pixel, using a hand-written integer map.
+-Vertex Crab (PixelCrab): Constructed by creating each vertex for each pixel manually, using a hand-written integer map.
 
 -Texture Crab (RectCrab): A more efficient version using only four vertices and a pixel-art texture.
 
